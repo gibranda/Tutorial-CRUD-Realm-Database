@@ -1,0 +1,17 @@
+*.dex
+*.class
+*.iws
+*.iml
+.gradle
+/local.properties
+.idea/
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+*/build/
+/build
+/captures
+# generated files
+bin/
+gen/
+out/
